@@ -1,0 +1,8 @@
+Install checked: 2023-04-27T06:58:32-04:00
+
+SYSTEM:	Linux LAPTOP-PMVLQDGP 5.15.90.1-microsoft-standard-WSL2 #1 SMP Fri Jan 27 02:56:13 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.25.1
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.1 (2018 May 18, compiled Mar 17 2023 11:08:34)
+CURL:	[/usr/bin/curl] curl 7.68.0 (x86_64-pc-linux-gnu) libcurl/7.68.0 OpenSSL/1.1.1f zlib/1.2.11 brotli/1.0.7 libidn2/2.2.0 libpsl/0.21.0 (+libidn2/2.2.0) libssh/0.9.3/openssl/zlib nghttp2/1.40.0 librtmp/2.3
+NODE:	[/home/sujaysj/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
